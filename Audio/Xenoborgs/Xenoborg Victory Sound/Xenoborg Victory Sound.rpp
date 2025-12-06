@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.36/win64" 1756700113
+<REAPER_PROJECT 0.1 "7.36/win64" 1764993876
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0.15566412990122
-  ZOOM 41.11416036604874 879 0
-  VZOOMEX 5.1170454 0
+  CURSOR 14.81496397427816
+  ZOOM 59.46690127155208 0 0
+  VZOOMEX 4 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -33,7 +33,7 @@
   <APPLYFX_CFG
   >
   RENDER_FILE ""
-  RENDER_PATTERN ""
+  RENDER_PATTERN "Xenoborg Victory Sound"
   RENDER_FMT 0 2 0
   RENDER_1X 0
   RENDER_RANGE 1 0 0 0 1000
@@ -66,8 +66,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 41.25099442382199 40.98344670055428
-  SELECTION2 41.25099442382199 40.98344670055428
+  SELECTION 0 23.71445728963823
+  SELECTION2 0 23.71445728963823
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -141,7 +141,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -161,7 +161,7 @@
       <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
         OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
         776t3g3wrd5DAgA/AACAP5eWlj4AAAA/AACAPwAAAAAAAIA/AAAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {DCE0BEEC-A768-4359-A606-8AC6548FEDD9}
@@ -187,7 +187,7 @@
         IQAAAAUAAAAAAAAAAQAAAE7HsCIxHV9Aj+21oPfGsD6amZmZmZnpPwEIAAAAAQAAAOnXCEo8eF1Aj+21oPfGsD4AAAAAAAAAQAEIAAAAAQAAABdbH9ewj8RAj+21oPfG
         sD4AAAAAAAAAQAEBAAAAAQAAAOYi+3eQYsZAj+21oPfGsD6amZmZmZnpPwEIAAAAAQAAAO6ZvgGEu4tAMgJNKxKA+j8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
         AP0BAABcAQAAAgAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {844C9005-2FDE-4DBB-B35E-EEFAB4918C0C}
@@ -203,8 +203,8 @@
     >
   >
   <TRACK {F709DB02-A040-43AA-869F-6D68A74C1929}
-    NAME ""
-    PEAKCOL 16576
+    NAME "i was originally experimenting with multiple TTSes but it sounded Bad so I didn't."
+    PEAKCOL 17730501
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
@@ -212,11 +212,11 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 0 0
+    ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -239,6 +239,17 @@
       SEL 0
       IGUID {279E3C1A-36F2-4D4C-A2F9-FE6BE845E217}
       IID 2
+      <NOTES
+        |This is "Welcome to zee-no-borg operating system" into Microsoft SAM, with the following settings:
+        |- Pitch: ~120
+        |- Speed: 72
+        |- Mouth: 128
+        |- Throat: ~160
+        |
+        |I used https://discordier.github.io/sam/ online to create this particular sound effect.
+      >
+      IMGRESOURCEFLAGS 0
+      NOTESWND 1366 43 1865 440
       NAME sam(1).wav
       VOLPAN 1 0 1 -1
       SOFFS 0
@@ -249,32 +260,6 @@
         FILE "Media\sam(1).wav"
       >
     >
-  >
-  <TRACK {E60ECEFF-30CB-48E7-812C-CC7CAAAAB35C}
-    NAME "TTS END"
-    PEAKCOL 17730501
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 0.2394821313049 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 2 -1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 64
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {E60ECEFF-30CB-48E7-812C-CC7CAAAAB35C}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
   >
   <TRACK {7D625AC6-C901-4566-81B8-A7A502DDFD2A}
     NAME "OS opening stinger"
@@ -314,6 +299,12 @@
       SEL 0
       IGUID {871B4269-173B-4E6E-8583-DDA200E205BA}
       IID 1
+      <NOTES
+        |This is from the xenoborg talking sounds REAPER file. I'd love to tell you how I made it, but honestly? 
+        |I have NO idea. Just the product of me messing around by feeding my heavily processed voice into ReaVocoder with a LABS synth - I could not tell you exactly how it was made.
+      >
+      IMGRESOURCEFLAGS 8
+      NOTESWND 2010 478 2509 875
       NAME Stinger.wav
       VOLPAN 1 0 8.107682 -1
       SOFFS 1.61867694739013
@@ -324,7 +315,7 @@
         FILE "Media\Stinger.wav"
       >
       <TAKEFX
-        WNDRECT -183 253 728 440
+        WNDRECT 1754 248 728 440
         SHOW 0
         LASTSEL 0
         DOCKED 0
@@ -332,7 +323,7 @@
         <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
           bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
           776t3g3wrd6nMHA+ED74PKabxDsK16M8AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAnNEHMwAAgD8AAAAAzcxMPQAAAAAAAAAAAAAAAAAAgD4AAAAAAAAAAAAAAAA=
-          AFByb2dyYW0gMQAQAAAA
+          AAAQAAAA
         >
         FLOATPOS 0 0 0 0
         FXID {39D1CBCB-9F53-4998-AA12-A34B71B3132A}
@@ -351,9 +342,15 @@
       SEL 0
       IGUID {7C28B7BA-19AC-483D-B890-0419302ABFF4}
       IID 1
+      <NOTES
+        |This is from the xenoborg talking sounds REAPER file. I'd love to tell you how I made it, but honestly? 
+        |I have NO idea. Just the product of me messing around by feeding my heavily processed voice into ReaVocoder with a LABS synth - I could not tell you exactly how it was made.
+      >
+      IMGRESOURCEFLAGS 8
+      NOTESWND 2010 478 2509 875
       NAME Stinger.wav
       VOLPAN 3.311311 0 1 -1
-      SOFFS 6.34192341046997
+      SOFFS 6.35387043773949
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {65F7748B-3A4E-408F-9BC8-48CA62310A7D}
@@ -378,8 +375,8 @@
     >
   >
   <TRACK {108FC7BB-A80B-463C-BE46-864F7246EBB3}
-    NAME "Mechanical fan noises"
-    PEAKCOL 31554522
+    NAME "Mechanical and fan"
+    PEAKCOL 22062646
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
@@ -415,6 +412,32 @@
       PT 17.19602185 0.58746333 0
       PT 23.71445729 0 0 0 1
     >
+  >
+  <TRACK {A01BDF8B-D553-4658-945E-953F0F207C9F}
+    NAME "Heavy Click"
+    PEAKCOL 22062646
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A01BDF8B-D553-4658-945E-953F0F207C9F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
     <ITEM
       POSITION 7.80752901535016
       SNAPOFFS 0
@@ -427,6 +450,11 @@
       SEL 0
       IGUID {BAF6640E-AFE5-4B21-B20A-8B75D505132D}
       IID 13
+      <NOTES
+        |Clink Chunk Mechanical.wav by Geoff-Bremner-Audio -- https://freesound.org/s/669488/ -- License: Creative Commons 0
+      >
+      IMGRESOURCEFLAGS 0
+      NOTESWND 2010 478 2509 875
       NAME 669488__geoff-bremner-audio__clink-chunk-mechanical.wav
       VOLPAN 1 0 1.833522 -1
       SOFFS 0
@@ -439,8 +467,8 @@
     >
   >
   <TRACK {4A4DBC7B-3777-43C8-9AFE-C5F86DBA3F47}
-    NAME 262870__jaegrover__electronic-computer-hard-drive-1990s-compaq-hard-drive-spooling-up-turning-off
-    PEAKCOL 16576
+    NAME "Terrifying 90s Hard Drive That Sounds Like A Goddamn Jet Engine"
+    PEAKCOL 22062646
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
@@ -458,7 +486,7 @@
     TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
-    FX 0
+    FX 1
     TRACKID {4A4DBC7B-3777-43C8-9AFE-C5F86DBA3F47}
     PERF 0
     MIDIOUT -1
@@ -490,6 +518,11 @@
       SEL 0
       IGUID {60E10726-335E-450D-9B72-8982274E627D}
       IID 12
+      <NOTES
+        |Electronic, Computer, Hard Drive - 1990s Compaq Hard Drive, Spooling Up, Turning Off.wav by jaegrover -- https://freesound.org/s/262870/ -- License: Creative Commons 0 
+      >
+      IMGRESOURCEFLAGS 0
+      NOTESWND 2010 478 2509 875
       NAME 262870__jaegrover__electronic-computer-hard-drive-1990s-compaq-hard-drive-spooling-up-turning-off.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
@@ -502,8 +535,8 @@
     >
   >
   <TRACK {4B01D8A9-775E-432D-A222-2CFCEF4C143A}
-    NAME 273736__squashy555__computer-startup
-    PEAKCOL 16576
+    NAME "Loud, Fan-Heavy Booting"
+    PEAKCOL 22062646
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
@@ -538,6 +571,11 @@
       SEL 0
       IGUID {B51608AA-C1B4-42B9-B357-D936AF41A573}
       IID 5
+      <NOTES
+        |computer startup.wav by squashy555 -- https://freesound.org/s/273736/ -- License: Creative Commons 0
+      >
+      IMGRESOURCEFLAGS 0
+      NOTESWND 2010 478 2509 875
       NAME 273736__squashy555__computer-startup.wav
       VOLPAN 1 0 1 -1
       SOFFS 1.13830159203206
@@ -550,8 +588,8 @@
     >
   >
   <TRACK {5EA49776-4DCF-44C7-956F-9CB18DFC6A12}
-    NAME ""
-    PEAKCOL 16576
+    NAME "rearrangement of the below sound effect so it starts faster"
+    PEAKCOL 22062646
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
@@ -583,9 +621,15 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
+      COLOR 30640920 R
       SEL 0
       IGUID {724B3AA3-F5A3-4159-A6A3-0AC924255778}
       IID 7
+      <NOTES
+        |PC boot-up close recording. by Sadiquecat -- https://freesound.org/s/723152/ -- License: Creative Commons 0
+      >
+      IMGRESOURCEFLAGS 0
+      NOTESWND 2010 478 2509 875
       NAME 723152__sadiquecat__pc-boot-up-close-recording.flac
       VOLPAN 1 0 1 -1
       SOFFS 0.86353913878294
@@ -598,8 +642,8 @@
     >
   >
   <TRACK {EE17D4AE-73D8-4A26-B5DB-03A19D681826}
-    NAME 723152__sadiquecat__pc-boot-up-close-recording
-    PEAKCOL 16576
+    NAME "Booting With Deep Bass"
+    PEAKCOL 22062646
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
@@ -631,9 +675,15 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
+      COLOR 30640920 R
       SEL 0
       IGUID {FC1B010F-2C8B-4EE9-89B7-4B49EE37D1F0}
       IID 7
+      <NOTES
+        |PC boot-up close recording. by Sadiquecat -- https://freesound.org/s/723152/ -- License: Creative Commons 0
+      >
+      IMGRESOURCEFLAGS 0
+      NOTESWND 2015 219 2514 616
       NAME 723152__sadiquecat__pc-boot-up-close-recording.flac
       VOLPAN 1 0 1 -1
       SOFFS 3.33640121802499
