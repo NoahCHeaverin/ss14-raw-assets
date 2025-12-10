@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.36/win64" 1764999661
+<REAPER_PROJECT 0.1 "7.36/win64" 1765341012
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,13 +18,13 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0.1584964939132
-  ZOOM 50.4743026327212 0 0
-  VZOOMEX 6 0
+  CURSOR 0.22915333395255
+  ZOOM 198.1206173915032 0 0
+  VZOOMEX 14.20098019 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "Media" ""
   <RECORD_CFG
@@ -50,7 +50,7 @@
   <RENDER_CFG
     ZXZhdxgAAQ==
   >
-  LOCK 1
+  LOCK 64
   <METRONOME 6 2
     VOL 0.25 0.125
     BEATLEN 4
@@ -64,10 +64,10 @@
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 120 4 4 0
+  TEMPO 180 4 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 3.88718108856892 4.00551778222462
+  SELECTION2 3.88718108856892 4.00551778222462
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -105,7 +105,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -123,5 +123,1637 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.87642320732749
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB837D2C-8CF1-4261-80A3-46797B586E41}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59653F03-00FE-4E70-9DAF-736E179B5A5C}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 3.87642320732749
+      SNAPOFFS 0
+      LENGTH 0.10757881241427
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C743829-C041-4031-9714-454E33719AA7}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.87642320732749
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE0BF777-7329-4DCA-8244-FB4725FDA35B}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 3.98400201974176
+      SNAPOFFS 0
+      LENGTH 0.05020344579333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3AF18A2-E5A9-4756-A1A0-C1E80663AAF1}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.98400201974176
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D61BE614-92C5-4AFA-96CA-DD9B8E2E3BF3}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 4.03420546553509
+      SNAPOFFS 0
+      LENGTH 1.58547532126609
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C3518DC-CF24-4DEE-8F16-B8D3E197101F}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.03420546553509
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63283C9C-5D61-44D2-AAB1-10F057BCDB08}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 5.61968078680118
+      SNAPOFFS 0
+      LENGTH 0.28418107645012
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {000917EA-6A01-49C0-A144-A5F43E446DF1}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.61968078680118
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB82F686-58CA-4C5D-B64F-346195ECA69E}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 5.9038618632513
+      SNAPOFFS 0
+      LENGTH 2.25204650191586
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F6A52939-CE38-4B7A-AA55-F835517C7A16}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.9038618632513
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F4C860A-491C-4D23-9AF5-D1A8439830F9}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 8.15590836516717
+      SNAPOFFS 0
+      LENGTH 0.17427767611112
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4EBF25F5-03FB-44C8-8C94-405257E20E9F}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.15590836516717
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6AA0AD9-3FDF-4D72-B255-238291E84E65}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 8.33018604127828
+      SNAPOFFS 0
+      LENGTH 0.22078506212314
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DBBBB5C2-FDE8-477A-BE37-F5A1F7492934}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.33018604127828
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7297F68E-D444-4000-83F8-E26E589BD618}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 8.55097110340142
+      SNAPOFFS 0
+      LENGTH 0.13058368830085
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B7585F9-2D5A-4DE6-ACC4-3956571385FB}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.55097110340142
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DAB00E7-202B-4C3F-B5C5-E923F962FE83}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 8.68155479170227
+      SNAPOFFS 0
+      LENGTH 1.82885182437024
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {48DF4A57-A5D0-4CB6-B4AF-F419D1FB0D1B}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.68155479170227
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF4C3039-6535-47A0-9EF6-F6FBCA4483C6}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 10.51040661607251
+      SNAPOFFS 0
+      LENGTH 0.09871798794555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.00967157357316 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E6E473D-F1CC-41F0-BC3E-C7A6030A83D4}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.51040661607251
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15DD7FD6-3775-4475-BD79-E70C4A68D795}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 10.5994530304449
+      SNAPOFFS 0
+      LENGTH 4.32596254110107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.00967157357316 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8560E511-A20E-4F13-B417-5FA02BC116A2}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.60912460401807
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7321B269-0F98-40D0-AB5C-1A82A8A7A3BB}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 14.93508714511914
+      SNAPOFFS 0
+      LENGTH 0.09850079860485
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1FC4F83-FF40-40E2-9737-8AA18D4B69BC}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.93508714511914
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB1E56F2-F243-4EA2-A3F6-AEE9BB257BB7}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 15.03358794372398
+      SNAPOFFS 0
+      LENGTH 2.61356070754255
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7081BE44-97B9-48AF-BC8C-BED8AAF82FED}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.05340000546313
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC1E5920-42AE-4EE4-A8BC-4B5BCCB6B076}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 17.64714865126653
+      SNAPOFFS 0
+      LENGTH 0.1324071618985
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCB8D6D3-0A4E-42F3-9282-D6C212FC9413}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.64714865126653
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {992095C6-368B-4B81-871C-19A91AA08E80}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 17.77955581316503
+      SNAPOFFS 0
+      LENGTH 0.03417216428842
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6A155FD2-970B-4C23-9987-78A54BC48A0A}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.77955581316503
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33885890-20D5-4CBD-BD04-2E102DB5F195}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 17.81372797745345
+      SNAPOFFS 0
+      LENGTH 0.04243506989504
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54732BF5-3C7A-4BDE-94BA-F88F74285622}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.81372797745345
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFF0C95C-98AB-4F55-A82C-C4BC65ABF901}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 17.85616304734849
+      SNAPOFFS 0
+      LENGTH 0.13331276900217
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {984B8CC1-641C-417C-8130-F053E528705F}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.85616304734849
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7C2F83E-00DA-46F0-992A-D3D77DCE397E}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 17.98947581635066
+      SNAPOFFS 0
+      LENGTH 0.12850918432044
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C42E01F-16A9-4211-97CF-14F6555E6DED}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.98947581635066
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EE89FC3-85E2-4690-A57D-625E26D39DE6}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 18.1179850006711
+      SNAPOFFS 0
+      LENGTH 0.15907805260307
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17858B87-2DFC-4031-A3A3-414E10A088BC}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.1179850006711
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E537F08B-C314-422D-966A-A27289862B8F}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 18.27706305327418
+      SNAPOFFS 0
+      LENGTH 0.09683938236764
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {304D6EB0-DD6F-43DE-A880-550635926375}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.27706305327418
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3C04932-9083-4DB4-9B5E-4B5E41A09615}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 18.37390243564182
+      SNAPOFFS 0
+      LENGTH 0.5430416525568
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {414E6B14-9484-4990-970A-329F5BBBFB32}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.37390243564182
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40B09705-D458-43E1-AB76-79482E32B1CD}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 18.91694408819863
+      SNAPOFFS 0
+      LENGTH 0.10155781077086
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA9794B0-6605-49AB-9A8A-5707C0537385}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.91694408819863
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19D7D6CC-59B3-4652-87EB-2F0ADB010111}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 19.01850189896949
+      SNAPOFFS 0
+      LENGTH 2.74569249861872
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96737287-C507-40DB-AED5-E060C31DFBEC}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.02850189896949
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37827876-4B8B-4E4D-B678-4C52606B86C9}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 21.76419439758821
+      SNAPOFFS 0
+      LENGTH 0.08039495894672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C666B70-57D7-4074-8A84-463B7DAF3D2D}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.77419439758821
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {837A8FE9-9438-4D8F-A6A8-A604262BA41D}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 21.84458935653494
+      SNAPOFFS 0
+      LENGTH 1.91442050433436
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E85560F7-7EF5-46EE-8363-239E700C2767}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.85458935653494
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84024E14-B43B-4004-8A96-57E7D375F417}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 23.7590098608693
+      SNAPOFFS 0
+      LENGTH 0.12293311157472
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4330B50-0622-4F55-BBEC-2A245ECB325B}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.7690098608693
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {718EB69E-7EB2-4F06-ABF6-C201A26B77A7}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 23.88194297244402
+      SNAPOFFS 0
+      LENGTH 3.4905132878106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B465FFE3-2AEB-49ED-978C-A43E65454791}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.89194297244402
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F143598-E293-408F-9CB4-9A6D38CDD699}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 27.37245626025462
+      SNAPOFFS 0
+      LENGTH 0.24977841459467
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39C1585F-DCAF-4C83-8B3A-7AA0143AB734}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 27.38245626025462
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E48F362-5CB6-4589-895C-2C432E117B31}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 27.62223467484928
+      SNAPOFFS 0
+      LENGTH 0.26959360095612
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AC0219E-3D4B-4E82-90CE-EC30C252C195}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 27.63223467484929
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE5C783C-1B3D-4524-B001-CA655AC7DDDB}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 27.8918282758054
+      SNAPOFFS 0
+      LENGTH 0.21548616544266
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD976BEA-A487-46CC-9707-C5A986F4ACCA}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 27.90182827580541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1495072-7D2C-4CEA-8C48-91CA141F1421}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 28.10731444124806
+      SNAPOFFS 0
+      LENGTH 0.21357579906144
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {66AADCA0-59A5-44E5-A687-9D1A6F2D062F}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 28.11731444124807
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE7DB367-325B-46EE-ACD0-56FE2484DB95}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 28.3208902403095
+      SNAPOFFS 0
+      LENGTH 0.16470895455155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26785A98-3DBA-428F-BED2-0FCEF99E75CD}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 28.33089024030951
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69439A8F-3622-4B52-AB4F-A0D6A3D58160}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 28.48559919486106
+      SNAPOFFS 0
+      LENGTH 4.44068932473334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B27A7935-1986-4E22-8796-5E360D3E0C38}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 28.49559919486106
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {102DFDFB-1963-4C6E-9F26-DC01BBF2403A}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 32.9262885195944
+      SNAPOFFS 0
+      LENGTH 0.22591550606997
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5BBB7508-A50C-49F5-A356-274D8B66E942}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 32.93628851959441
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C19042C-6714-4335-939D-BBF632FD7932}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 33.15220402566437
+      SNAPOFFS 0
+      LENGTH 0.34436688919505
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {158F4DE6-8CD0-4E35-9F0C-39CE3DBD9547}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.16220402566438
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1C82BFA-2F29-4D6D-83D8-6E0084014D38}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 33.49657091485942
+      SNAPOFFS 0
+      LENGTH 0.08916793291908
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F84C247F-15C9-43B3-9BB1-27E4B0C856B9}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.50657091485943
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {722DA275-12A9-4424-A0B7-5411F8318751}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 33.5857388477785
+      SNAPOFFS 0
+      LENGTH 0.66878940909072
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED9FFF45-8DB3-451C-86CE-2C03C79EC027}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.59573884777851
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94470745-3733-42CA-8A63-C8FBDEBAC5FE}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 34.25452825686921
+      SNAPOFFS 0
+      LENGTH 0.16854013944902
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81DA8BBF-74AF-41DE-BC66-892D206CE87D}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 34.26452825686923
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8FA84F9-4BE2-4192-9103-692D4E35FB7A}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 34.42306839631824
+      SNAPOFFS 0
+      LENGTH 0.74403134578806
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C14B3AB-E303-4ACF-B98D-018C30793145}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 34.43306839631825
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3CF2B8F-13D9-4D2F-94E7-7492457A6B22}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 35.16709974210629
+      SNAPOFFS 0
+      LENGTH 0.08101240616325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69AC2372-AF8B-4D8C-B116-357EAE89C984}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 35.17709974210629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDCF9CD4-217C-4A16-8A3D-4E2354355292}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 35.24935771052639
+      SNAPOFFS 0
+      LENGTH 1.05727691889768
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {426F173E-6F10-4C50-A3FC-A9D5E832493C}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 35.25811214826955
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E689F68-0CE2-4F88-853E-7F1F5C10A2DA}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 36.30663462942407
+      SNAPOFFS 0
+      LENGTH 0.1324780717655
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF1E02BA-C176-4B3D-A728-ED601E2ADB95}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.31538906716723
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5501F2A-A87A-446B-B762-042403403409}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 36.43911270118957
+      SNAPOFFS 0
+      LENGTH 0.68786691108991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBAA85CB-DA0A-4F8B-8119-4E6CF9A789B3}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.44786713893273
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC49A37B-FFFD-4562-9A0C-6A2C2EEC263F}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 37.12697961227948
+      SNAPOFFS 0
+      LENGTH 0.09681089859786
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {667DE2F8-284D-48D8-AD77-76011E076011}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 37.13573405002264
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F13C088-8B25-40D2-BC75-CF0B2710DB38}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 37.22379051087734
+      SNAPOFFS 0
+      LENGTH 0.29375863602331
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB624C0A-A002-47BF-882C-7086202D3958}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 37.2325449486205
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA4131DE-FADA-49C0-A290-590C284F0A81}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 37.51754914690065
+      SNAPOFFS 0
+      LENGTH 0.1261857565818
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C05CF48-D2F1-44A0-909B-0FC6D9B9922F}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 37.52630358464381
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0C2EB61-47FA-4976-9724-4A75A323269A}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 37.64373490348245
+      SNAPOFFS 0
+      LENGTH 25.69077596489684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7160768C-31BA-4051-A802-BAD36758CC80}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 37.65248934122561
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {853FC5E9-BD06-46DE-99AD-E644B3C83BEF}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+  >
+  <TRACK {A6195F81-BD09-4D57-8DF5-48301C9BBD63}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6195F81-BD09-4D57-8DF5-48301C9BBD63}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.22586320322479
+      SNAPOFFS 0
+      LENGTH 0.13058368830085
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.00710818838403 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9CD116B-9EE8-4B18-B8C5-6F62ABCD6D34}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.55097110340142
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DC35411-8023-439E-B30E-E76F7608F333}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 0.34933870314161
+      SNAPOFFS 0
+      LENGTH 0.10155781077085
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.00710818838403 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {494AABC8-B00B-4B8A-948A-10F6C3D77462}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.91694408819863
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46B609B9-D1ED-46FD-8CD2-1A87569BCC6A}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 0.45089651393244
+      SNAPOFFS 0
+      LENGTH 0.08018481536001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.01285911208941 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5E1BE39-A631-4835-8842-079C03FF802B}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.98947581635066
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3C6779D-9D38-48EF-AF4C-90BB584146C4}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 0.51822221720304
+      SNAPOFFS 0
+      LENGTH 0.2186049055199
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01285911208941 1 1 0 0
+      FADEOUT 1.1 0.01 0.03214778022352 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58A47CB3-28A4-4C97-BA5D-93A3ECF26FB3}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 27.40537693397892
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F550E576-9524-40F5-8272-84BB003D5A8F}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 0.70467934249942
+      SNAPOFFS 0
+      LENGTH 0.12293311157472
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.03214778022352 1 1 0 0
+      FADEOUT 1.1 0.01 0.05783356190909 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E7DF2FF5-69EB-4B7F-82B5-5A35A384F445}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.7690098608693
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C76BBAC-C0A8-4F17-911A-43DCDFEE9EF9}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 0.76977889216505
+      SNAPOFFS 0
+      LENGTH 0.12293311157472
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.05783356190909 1 1 0 0
+      FADEOUT 1.1 0.01 0.01129570051347 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {49D2DA8F-1F12-433E-B345-5CCAE2847080}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.7690098608693
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8D32023-6B63-4A16-AC7C-D8295D2120C3}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 0.8814163032263
+      SNAPOFFS 0
+      LENGTH 0.10518291880381
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.00973582072783 0.01129570051347 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4F967B7-F6C2-4D05-8BDE-FF539F478DD4}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.34268422012894
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6B0E4EA-33FF-4562-86AE-F3984B6B7585}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.13163546613211
+      SNAPOFFS 0
+      LENGTH 0.02542104980188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02275176995537 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.00266927984651 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E756036B-E53E-4016-A6E1-A946FB91A6C2}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.42244608913087
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D76487B-4EF0-48E3-A905-E3AA838ADEE7}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.15408781749554
+      SNAPOFFS 0
+      LENGTH 0.06415174544253
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.00296869843845 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AEBB9621-014D-4E51-BF5F-A07F11E9F917}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.96943619828145
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A440C24A-0B1A-4C1B-A492-EBDB350E1714}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.21823956294743
+      SNAPOFFS 0
+      LENGTH 0.04243506989504
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C2F534E1-47EC-4F4F-B110-5868617A037D}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.81372797745345
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91DE10FB-0432-4F92-B7D0-1F0FA1933444}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.26067463286513
+      SNAPOFFS 0
+      LENGTH 0.04243506989504
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EBB00CBD-421C-4BE3-A764-BD0F52F50B07}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.81372797745345
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF3EE2C9-99BF-4326-8E51-DACCB928496E}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.30310970272248
+      SNAPOFFS 0
+      LENGTH 0.09681089859786
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.01000000000399 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D97314A4-A367-461C-977A-838C2B389987}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 37.13573405002264
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75FFD65B-B644-45F8-A9E3-887BD71D2AE3}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.38992060131635
+      SNAPOFFS 0
+      LENGTH 0.05849706801641
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01000000000399 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9D33C94-D17A-4F0D-8E3D-6520927C0CFA}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1.737801 0 1 -1
+      SOFFS 34.26452825686923
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACAF5A89-EE0E-482C-932F-BE07B7300569}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.45098949175064
+      SNAPOFFS 0
+      LENGTH 0.13571960298978
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD6B733D-9913-4815-8B18-3700967AF3C7}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.64383621017525
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5FC9A65-34FF-4B20-9239-D5D7F149CC75}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.58670909474379
+      SNAPOFFS 0
+      LENGTH 0.16470895455155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.02601734971721 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {63763D53-352C-4874-86C7-9528BD3C09B3}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 28.33089024030951
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DB8EB39-BD48-4CBB-9963-23B784617AB4}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 1.72540069957813
+      SNAPOFFS 0
+      LENGTH 0.22591550606996
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.02601734971721 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E2AE5C2F-2C2D-427C-993D-B18283D0020C}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 0.562341 0 1 -1
+      SOFFS 32.93628851959441
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00FBAB09-F28E-4EB4-93FE-B9DB32A5E192}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 2.10549828700479
+      SNAPOFFS 0
+      LENGTH 0.09683938236764
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34E33A73-72C3-4EB8-A689-D2120BA8A5CD}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.27706305327418
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41C99DC7-A182-42CA-9636-C24B02AD06EF}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 2.20233766932506
+      SNAPOFFS 0
+      LENGTH 0.08039495894672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41E00324-B1E1-49E2-A24D-FF760CE734B1}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.77419439758821
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F69C910-7FE3-476B-9A39-F1B58E43090F}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 2.28273262828588
+      SNAPOFFS 0
+      LENGTH 0.09871798794555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6EC8A921-1DB5-4F2F-9CA4-289D20AB6A73}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.51040661607251
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15C4A00F-C42B-4DCF-B1EC-55FDD637DBD0}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 2.38145061628893
+      SNAPOFFS 0
+      LENGTH 0.18328359867343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.0113529654099 0.00226619939725 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D2A4AB56-DADF-4EE9-97AF-3236FC588914}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.61968078680118
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2029A643-BC26-4488-9410-1F39E0BF1A98}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 2.56246801556511
+      SNAPOFFS 0
+      LENGTH 0.08916793291908
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00226619939725 1 1 0 0
+      FADEOUT 1.1 0.01 0.00998325766606 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A34DC38-B908-4AD3-BCBB-8CBCF4F94872}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1.972423 0 1 -1
+      SOFFS 33.50657091485943
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A687B4A6-50E4-4D1A-92DF-F5519B817EAD}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 2.64165269081813
+      SNAPOFFS 0
+      LENGTH 0.05140357995241
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.00998325766606 1 1 0 0
+      FADEOUT 1 0.02694319324926 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {905B3E94-2DA2-408D-B6DE-7E68D2EF596D}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 0.562341 0 1 -1
+      SOFFS 8.25366725074853
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CF14298-0963-42DD-B46D-C928661C641C}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 3.21671193698421
+      SNAPOFFS 0
+      LENGTH 0.14372929203847
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.00730863259511 0 1 0 0 0
+      FADEOUT 1.1 0.02694319324926 0.04816225287608 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7B797693-77DE-40F5-9883-7BB6932ADCB3}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1.445439 0 1 -1
+      SOFFS 8.25366725074853
+      PLAYRATE 1 1 -1.47 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E1EA1D5-26EF-44FE-98DD-8F6ADC59D100}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 3.3122789761466
+      SNAPOFFS 0
+      LENGTH 0.1261857565818
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04816225287608 1 1 0 0
+      FADEOUT 1.1 0.01 0.00980244946652 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F5B367EA-29C1-46A5-B18D-91A4D2810276}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 37.52630358464381
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9013E074-398C-4FC3-913C-6DDC0F1D7704}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
+    <ITEM
+      POSITION 3.42866228326188
+      SNAPOFFS 0
+      LENGTH 0.10757881241427
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.00980244946652 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D563CE50-4CEA-4B75-82A1-06A3A88C85A5}
+      IID 13
+      NAME "Mothership Core Daisy Bell.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.87642320732749
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {250408E7-7A57-4E4A-9454-F65C931253EE}
+      <SOURCE RPP_PROJECT
+        FILE "C:\spess\ss14-raw-assets\Audio\Xenoborgs\Xenoborg Mothership Core\Mothership Core Daisy Bell\Mothership Core Daisy Bell.rpp"
+      >
+    >
   >
 >
