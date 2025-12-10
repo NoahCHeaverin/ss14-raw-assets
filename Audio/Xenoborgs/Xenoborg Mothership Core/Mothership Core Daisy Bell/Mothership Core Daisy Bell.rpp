@@ -1,0 +1,951 @@
+<REAPER_PROJECT 0.1 "7.36/win64" 1765002834
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 3.95620135652614
+  ZOOM 49.49026122520147 0 0
+  VZOOMEX 3 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 0
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 72
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 180.0002 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 8.57595995178884 8.57595995178884
+  SELECTION2 8.57595995178884 8.57595995178884
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {0693EB2D-DBB2-4F76-8B82-CA7EFF747D63}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {C41425FE-1C19-4615-B86F-9A14053A4C10}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 3.87699539175201 Daisy, 0 27197452 1 R {91B8111C-325B-4345-B7A9-4B751E373035} 0
+  MARKER 2 5.96345216816446 daisy, 0 27197452 1 R {B86F65B2-9115-4D00-825C-9562FBF8A941} 0
+  MARKER 3 8.18 give 0 27197452 1 R {3177EC4E-2CDC-4B55-9E5F-BB3DED587A14} 0
+  MARKER 4 8.55324303675723 me 0 27197452 1 R {FFCF0F1A-DAC5-4F80-83FC-D1ACEA7BF263} 0
+  MARKER 41 8.67234081869696 Mmm 0 0 1 R {805B1F62-7326-4E2A-957B-8DA07492AB4A} 0
+  MARKER 42 8.7074247102618 eee 8 0 1 R {095AF8AE-861A-428A-8D83-6D40668AE7F4} 0
+  MARKER 5 8.97 your 0 27197452 1 R {8D2DF99D-3496-43FF-A192-72D2DCB6EE31} 0
+  MARKER 6 9.31 answer 0 27197452 1 R {0EFE662C-ABD9-42AE-BCD8-156179C0B156} 0
+  MARKER 7 10.47 do 0 27197452 1 R {33630551-7EB7-439F-B22E-9B3FEE1AEA97} 0
+  MARKER 8 12.67 I'm 0 27197452 1 R {2A08EB21-EF65-4A64-80E5-569006F527D7} 0
+  MARKER 9 13.7330505194524 half 0 27197452 1 R {BE016B24-AD62-4B43-A168-FDE42002205F} 0
+  MARKER 10 14.89867042784057 crazy, 0 27197452 1 R {BD1CDC30-7673-412B-9EC3-CA024142F21C} 0
+  MARKER 11 16.98668934240359 all 0 27197452 1 R {158FC54C-E9F5-455E-BDF5-77F9AAF8C768} 0
+  MARKER 12 17.56718820861671 for 0 27197452 1 R {C3313A7E-E6A6-4D33-BFA5-61801928771C} 0
+  MARKER 13 17.9387074829931 the 0 27197452 1 R {DAE09658-1C84-4AF2-A5D2-2B6823F29364} 0
+  MARKER 14 18.28700680272097 love 0 27197452 1 R {F3B30CEC-1B46-49A1-850E-AB3985A32401} 0
+  MARKER 15 18.91394557823114 of 0 27197452 1 R {11673640-2205-4B52-A8B7-68E43827DC85} 0
+  MARKER 16 19.26224489795901 you 0 27197452 1 R {7658F39A-77A8-409E-A1A1-9C143D1C10F3} 0
+  MARKER 17 21.41556527369614 It 0 27197452 1 R {0829960C-B4A7-409D-A39E-FFEF8C4B53B0} 0
+  MARKER 18 21.64448979591834 won't 0 27197452 1 R {1C5057DA-613F-491B-93B8-CE88D2145CCC} 0
+  MARKER 19 22.01600907029474 be 0 27197452 1 R {8A292C8A-9044-4ACC-BC0F-7432BB990478} 0
+  MARKER 20 22.38752834467113 a 0 27197452 1 R {B15322E2-832A-47C8-A7CC-67F5B3F7DD34} 0
+  MARKER 21 22.75904761904753 stylish 0 27197452 1 R {4E83FC0B-2B72-4926-A7FF-6D0E702FBB5A} 0
+  MARKER 22 23.80394557823114 marriage 0 27197452 1 R {4AC99BD2-C8FA-4FE6-8693-CC8D7062B4FC} 0
+  MARKER 23 26.009841269841 I 0 27197452 1 R {270E0B22-9B0B-430F-8F05-0BF3567A19C1} 0
+  MARKER 24 26.31170068027182 can't 0 27197452 1 R {3AC01DD9-DA0A-44FC-A91A-7E84C515CABA} 0
+  MARKER 25 26.91541950113346 afford 0 27197452 1 R {A45ADEB5-4368-4571-8453-6BDCC16C6DE6} 0
+  MARKER 26 28.09599984219391 a 0 27197452 1 R {68C5004E-2947-43CC-9622-5D1AF62596CB} 0
+  MARKER 27 28.50121336895434 carriage 0 27197452 1 R {6DDCFAAC-87AF-40BE-898D-EC3165E35A86} 0
+  MARKER 28 30.27283033742072 But 0 27197452 1 R {9D695531-3680-425A-8003-BB306CF51EA4} 0
+  MARKER 29 30.73546485260767 you'll 0 27197452 1 R {AD714C15-22AD-485B-AFBF-98D7B122A8DB} 0
+  MARKER 30 31.43206349206342 look 0 27197452 1 R {37FC44D1-8F17-42F6-8865-1EF66F5E2A5E} 0
+  MARKER 31 31.80358276643981 sweet 0 27197452 1 R {EAAB7654-A7A1-4252-9491-4571D05607F4} 0
+  MARKER 32 32.75560090702933 On 0 27197452 1 R {321F4FE4-2A3F-44DB-A3B8-CBB236839889} 0
+  MARKER 33 33.5682993197277 "the " 0 27197452 1 R {763BA5C6-255B-4339-9875-73C72A6F4E9C} 0
+  MARKER 34 33.89337868480705 seat 0 27197452 1 R {BD004EC6-16B3-497D-B25F-2DFAEF7456C8} 0
+  MARKER 35 34.67110804351195 Of 0 27197452 1 R {66677B94-7780-4D09-9AD7-BD35B1AC7F8A} 0
+  MARKER 36 34.91051956543409 a 0 27197452 1 R {04228C61-42DD-4EC4-ADE4-9788D96EFE29} 0
+  MARKER 37 35.21114288213272 bicycle 0 27197452 1 R {8CBC04F9-5A3C-4F10-B801-8BE7C7369770} 0
+  MARKER 38 36.16263038548745 " built" 0 27197452 1 R {82A8EF31-441A-4ABD-94C5-29E83DABE780} 0
+  MARKER 39 36.95210884353729 for 0 27197452 1 R {63EA1166-E5A0-4769-97B2-5607B5C06567} 0
+  MARKER 40 37.32362811791369 two 0 27197452 1 R {C62DAB2D-563D-4DAA-879B-C81F84B58E4F} 0
+  <PROJBAY
+  >
+  <TRACK {5F8D08C9-5AC6-4918-9D7A-D82D879D1C9E}
+    NAME README
+    PEAKCOL 30891007
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 37 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5F8D08C9-5AC6-4918-9D7A-D82D879D1C9E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 63.33326296304117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      LOCK 1
+      SEL 0
+      IGUID {02C0AA86-8C73-430A-A459-A13A2A7CD778}
+      IID 3
+      <NOTES
+        |HOW TO USE THIS FILE: This file is linked as a subproject to the Mothership Core introduction sound effect, where it is chopped up and sentence-mixed. Moving DaisyBell Chorus.m4a ANY AMOUNT will almost definitely break the Mothership Core intro sound by proxy. This file is also linked as a subproject to an associated rendering file with regions set up to output all sound effects which are derived from this one, and this one, to the codebase for pull requests.
+      >
+      IMGRESOURCEFLAGS 0
+      NOTESWND 2224 569 2723 966
+    >
+  >
+  <TRACK {EF4117DE-D068-4EE1-BA7F-5AB0F31E2499}
+    NAME TODO
+    PEAKCOL 24633460
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    SPACER 1
+    TRACKHEIGHT 87 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EF4117DE-D068-4EE1-BA7F-5AB0F31E2499}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1F8EF9C-815B-4E38-99F5-336F7AFE68E5}
+      IID 3
+      <NOTES
+        |TODO:
+        |- Find accurate credit for Nyx's contribution of the Daisy Bell chorus.
+        |- Create render file with linked subprojects.
+        |- Edit notes to contain files to which this project is linked.
+      >
+      IMGRESOURCEFLAGS 8
+      NOTESWND 1550 495 2049 892
+    >
+  >
+  <TRACK {9D091A24-61E9-4A60-B686-AF3EC5BFC9CC}
+    NAME "Daisy Bell Reference Instrumental"
+    PEAKCOL 25122919
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.20079148705394 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    SPACER 1
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9D091A24-61E9-4A60-B686-AF3EC5BFC9CC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1621 220 556 508
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABEAAAAAAAAAAAAEAA=
+        776t3g3wrd6mm8Q7F7fROgAAAAAAAAAAAAAAAM5NAD/pZ4g9AAAAAAAAAD8AAIA/AACAPwAAAD8AAAAAAAAAAAAAAAA=
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A9110152-A4D5-4BFB-BEB7-55176671BCC9}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 35.99996000004445
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB8E35F5-D019-4BB9-8ED6-2B24B7575811}
+      IID 1
+      <NOTES
+        | Taken from this YouTube video by nascarsimracing1 at https://www.youtube.com/watch?v=hF4DqdVF1rc from the MediaFire link they host here https://www.mediafire.com/file/jz5mfu6da3bxytz/Daisy+Bell+Instrumental.mid/file as of December 5th, 2025. To be used as reference only.
+      >
+      IMGRESOURCEFLAGS 8
+      NOTESWND 1550 495 2049 892
+      NAME "Electric Piano - Daisy Bell Instrumental.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4185C348-CB5F-4F5A-836A-14F97BA443E8}
+      <SOURCE MIDI
+        HASDATA 1 384 QN
+        CCINTERP 32
+        POOLEDEVTS {3DF83ACB-E915-4378-8AFD-D327ABCBD358}
+        <X 0 0 0 0 3 "Electric Piano"
+          /wNFbGVjdHJpYyBQaWFubw==
+        >
+        E 0 c0 00 00
+        E 0 90 30 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 30 00
+        E 0 90 2b 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 2b 00
+        E 0 90 30 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 37 32
+        E 0 90 34 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 30 00
+        E 0 90 2b 32
+        E 384 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 90 37 32
+        E 0 90 34 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 2b 00
+        E 0 90 4f 32
+        E 0 90 30 32
+        E 384 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 30 00
+        E 0 80 4f 00
+        E 0 90 4c 32
+        E 0 90 2b 32
+        E 384 90 34 32
+        E 0 90 37 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 2b 00
+        E 0 80 4c 00
+        E 0 90 48 32
+        E 0 90 30 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 48 00
+        E 0 80 30 00
+        E 0 90 43 32
+        E 0 90 2b 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 37 32
+        E 0 90 34 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 2b 00
+        E 0 80 43 00
+        E 0 90 45 32
+        E 0 90 35 32
+        E 384 80 45 00
+        E 0 90 39 32
+        E 0 90 3c 32
+        E 0 90 47 32
+        E 128 80 3c 00
+        E 0 80 39 00
+        E 256 80 47 00
+        E 0 90 39 32
+        E 0 90 3c 32
+        E 0 90 48 32
+        E 128 80 3c 00
+        E 0 80 39 00
+        E 256 80 35 00
+        E 0 80 48 00
+        E 0 90 45 32
+        E 0 90 30 32
+        E 384 90 3c 32
+        E 0 90 39 32
+        E 128 80 39 00
+        E 0 80 3c 00
+        E 256 80 45 00
+        E 0 90 48 32
+        E 0 90 3c 32
+        E 0 90 39 32
+        E 128 80 39 00
+        E 0 80 3c 00
+        E 256 80 30 00
+        E 0 80 48 00
+        E 0 90 30 32
+        E 0 90 43 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 30 00
+        E 0 90 2b 32
+        E 384 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 2b 00
+        E 0 80 43 00
+        E 0 90 4a 32
+        E 0 90 2b 32
+        E 384 90 2f 32
+        E 0 90 32 32
+        E 128 80 32 00
+        E 0 80 2f 00
+        E 256 90 2f 32
+        E 0 90 32 32
+        E 128 80 32 00
+        E 0 80 2f 00
+        E 256 80 2b 00
+        E 0 80 4a 00
+        E 0 90 26 32
+        E 0 90 4f 32
+        E 384 90 2f 32
+        E 0 90 32 32
+        E 128 80 32 00
+        E 0 80 2f 00
+        E 256 90 32 32
+        E 0 90 2f 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 4f 00
+        E 0 80 26 00
+        E 0 90 4c 32
+        E 0 90 30 32
+        E 384 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 4c 00
+        E 0 80 30 00
+        E 0 90 2b 32
+        E 0 90 48 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 2b 00
+        E 0 80 48 00
+        E 0 90 32 32
+        E 0 90 45 32
+        E 384 80 45 00
+        E 0 90 36 32
+        E 0 90 47 32
+        E 0 90 39 32
+        E 128 80 36 00
+        E 0 80 39 00
+        E 256 80 47 00
+        E 0 90 48 32
+        E 0 90 39 32
+        E 0 90 36 32
+        E 128 80 36 00
+        E 0 80 39 00
+        E 256 80 48 00
+        E 0 80 32 00
+        E 0 90 2d 32
+        E 0 90 4a 32
+        E 384 90 36 32
+        E 0 90 39 32
+        E 128 80 39 00
+        E 0 80 36 00
+        E 256 80 4a 00
+        E 0 90 39 32
+        E 0 90 4c 32
+        E 0 90 36 32
+        E 128 80 36 00
+        E 0 80 39 00
+        E 256 80 2d 00
+        E 0 80 4c 00
+        E 0 90 4a 32
+        E 0 90 2b 32
+        E 384 90 32 32
+        E 0 90 2f 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 90 32 32
+        E 0 90 2f 32
+        E 128 80 32 00
+        E 0 80 2f 00
+        E 256 80 2b 00
+        E 0 90 26 32
+        E 384 90 32 32
+        E 0 90 2f 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 4a 00
+        E 0 90 2f 32
+        E 0 90 32 32
+        E 0 90 4c 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 26 00
+        E 0 80 4c 00
+        E 0 90 4d 32
+        E 0 90 2b 32
+        E 384 80 4d 00
+        E 0 90 4c 32
+        E 0 90 32 32
+        E 0 90 2f 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 4c 00
+        E 0 90 4a 32
+        E 0 90 2f 32
+        E 0 90 32 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 4a 00
+        E 0 80 2b 00
+        E 0 90 26 32
+        E 0 90 4f 32
+        E 384 90 32 32
+        E 0 90 2f 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 4f 00
+        E 0 90 2f 32
+        E 0 90 32 32
+        E 0 90 4c 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 4c 00
+        E 0 80 26 00
+        E 0 90 4a 32
+        E 0 90 30 32
+        E 384 80 4a 00
+        E 0 90 34 32
+        E 0 90 37 32
+        E 0 90 48 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 30 00
+        E 0 90 2b 32
+        E 384 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 48 00
+        E 0 90 37 32
+        E 0 90 4a 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 2b 00
+        E 0 80 4a 00
+        E 0 90 4c 32
+        E 0 90 30 32
+        E 384 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 4c 00
+        E 0 90 34 32
+        E 0 90 37 32
+        E 0 90 48 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 48 00
+        E 0 80 30 00
+        E 0 90 45 32
+        E 0 90 35 32
+        E 384 90 39 32
+        E 0 90 3c 32
+        E 128 80 3c 00
+        E 0 80 39 00
+        E 256 80 45 00
+        E 0 90 3c 32
+        E 0 90 48 32
+        E 0 90 39 32
+        E 128 80 39 00
+        E 0 80 3c 00
+        E 256 80 35 00
+        E 0 80 48 00
+        E 0 90 45 32
+        E 0 90 30 32
+        E 384 80 45 00
+        E 0 90 34 32
+        E 0 90 43 32
+        E 0 90 37 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 30 00
+        E 0 90 2b 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 43 00
+        E 0 90 37 32
+        E 0 90 43 32
+        E 0 90 34 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 43 00
+        E 0 80 2b 00
+        E 0 90 48 32
+        E 0 90 30 32
+        E 384 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 48 00
+        E 0 90 34 32
+        E 0 90 4c 32
+        E 0 90 37 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 4c 00
+        E 0 80 30 00
+        E 0 90 4a 32
+        E 0 90 2b 32
+        E 384 90 32 32
+        E 0 90 2f 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 4a 00
+        E 0 90 43 32
+        E 0 90 2f 32
+        E 0 90 32 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 43 00
+        E 0 80 2b 00
+        E 0 90 48 32
+        E 0 90 30 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 48 00
+        E 0 90 37 32
+        E 0 90 4c 32
+        E 0 90 34 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 4c 00
+        E 0 80 30 00
+        E 0 90 2b 32
+        E 0 90 4a 32
+        E 384 80 4a 00
+        E 0 90 2f 32
+        E 0 90 32 32
+        E 0 90 4c 32
+        E 128 80 32 00
+        E 0 80 2f 00
+        E 256 80 4c 00
+        E 0 90 32 32
+        E 0 90 4d 32
+        E 0 90 2f 32
+        E 128 80 32 00
+        E 0 80 2f 00
+        E 256 80 4d 00
+        E 0 80 2b 00
+        E 0 90 4f 32
+        E 0 90 30 32
+        E 384 80 4f 00
+        E 0 90 37 32
+        E 0 90 4c 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 4c 00
+        E 0 90 37 32
+        E 0 90 34 32
+        E 0 90 48 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 48 00
+        E 0 80 30 00
+        E 0 90 2b 32
+        E 0 90 4a 32
+        E 384 90 2f 32
+        E 0 90 32 32
+        E 128 80 2f 00
+        E 0 80 32 00
+        E 256 80 4a 00
+        E 0 90 2f 32
+        E 0 90 32 32
+        E 0 90 43 32
+        E 128 80 32 00
+        E 0 80 2f 00
+        E 256 80 43 00
+        E 0 80 2b 00
+        E 0 90 30 32
+        E 0 90 48 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 37 00
+        E 0 80 34 00
+        E 256 80 30 00
+        E 0 90 2b 32
+        E 384 90 37 32
+        E 0 90 34 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 90 34 32
+        E 0 90 37 32
+        E 128 80 34 00
+        E 0 80 37 00
+        E 256 80 2b 00
+        E 0 80 48 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {489AF503-8754-474C-BF15-DA1272A9E3D8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2
+        VELLANE -1 100 0 0 1
+      >
+    >
+  >
+  <TRACK {FD920846-367D-4DF3-A4CA-37D637FF5E34}
+    NAME "Daisy Bell Chorus"
+    PEAKCOL 22554800
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    SPACER 1
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FD920846-367D-4DF3-A4CA-37D637FF5E34}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1793 574 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAD8AAAA/N4nBPqabBD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5F841221-7C55-4412-97EE-4BA0BD41D2B2}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.666663703707
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9321CC1-F141-4699-8BCE-3A128DAD3A51}
+      IID 10
+      NAME Placeholder!
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCF887F0-07E2-4A3A-9109-FA98F41FB84F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {28802DD0-194D-4697-8B46-EFA4C78D73D1}
+        e 0 90 3f 60
+        e 1954 80 3f 00
+        E 1886 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {9E674430-8A32-4320-A1AB-395950DD2B7D}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 7
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 22713.6 0.177865 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 43 849 437 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {6E192B65-D096-4F4E-B408-22DAE6FB5E98}
+    NAME ""
+    PEAKCOL 22554800
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6E192B65-D096-4F4E-B408-22DAE6FB5E98}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 2115 233 1034 751
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: Graillon 3 (Auburn Sounds)" "Auburn Sounds Graillon 3.vst3" 0 "" 1073392215{0B20BA920CE0B1456E62754133317340} ""
+        V6r6P+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAMgEAAAEAAAAAABAA
+        IgEAAAEAAAAAAAsgupIBAAAAAAAAAAABAwAAAAAAQQAAAO87NT8AAAAAAAAAAAAAAAAAAAAAAACAPwAAAAB9bok+7zs1PwAAAACnS2o+vBqcPgAAgD8AAAA/AAAAAAAA
+        AD+ykCU/AACAPwAAAAAAAIA/0zIBPwAAAAAAAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAA
+        AD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAAAAAAAAAAAAAACAP7XyOT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAgD8AAIA/AACAPwAA
+        gD8AAAAAAAAAAAAAAAAAAAAA
+        AERlZmF1bHQAEAAAAA==
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {98F7D6E7-0735-4AE7-BA55-AF178E4C21F0}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.66677828915132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F76B963-604E-436B-B1BE-E5DCE25EB88F}
+      IID 11
+      <NOTES
+        |Gap Placeholder - Do not remove!
+      >
+      IMGRESOURCEFLAGS 8
+      NOTESWND 1550 495 2049 892
+    >
+    <ITEM
+      POSITION 2.666663703707
+      SNAPOFFS 0
+      LENGTH 38.7626041
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {4147B120-4C4E-4FB7-9491-C439265412F8}
+      IID 2
+      <NOTES
+        |Quick vocals from the one and only Nyxilanth Steelewing, gay moth extroirdinaire. Accurate credit to be added.
+      >
+      IMGRESOURCEFLAGS 8
+      NOTESWND 1550 495 2049 892
+      NAME "DaisyBell Chorus.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00180998851156
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E563493-7CB4-435F-B0AE-E10FBEA354D8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Media\DaisyBell Chorus.m4a"
+      >
+    >
+  >
+>

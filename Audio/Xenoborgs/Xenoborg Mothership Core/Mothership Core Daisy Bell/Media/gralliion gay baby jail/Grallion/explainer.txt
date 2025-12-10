@@ -1,0 +1,1 @@
+I do plan in the future to create and validate my REAPER files against a reference installation with it's own dedicated folder for plugins, but since that doesn't exist yet, I'm keeping the scope limited and keeping the plugin nearby to the file which uses it.
